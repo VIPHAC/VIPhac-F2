@@ -4,7 +4,7 @@ This simple arithmetic tool performs addition, multiplication, division and subt
 1- apt update; apt upgrade -y
 2- pkg install python3
 3- pkg install git
-4- git clone https://github.com/VIPHAC/VIPhac-F2/edit/main
+4- git clone https://github.com/VIPHAC/VIPhac-F2.git
 5- cd VIPhac-F2
 6- python calcu.py
 
